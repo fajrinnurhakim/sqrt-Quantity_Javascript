@@ -32,6 +32,12 @@ Make sure you have installed the following software :
     node index
 
     ```
+
 ## Documentation
 
-1. 
+1. Bilangan Ganjil
+   ![a](https://github.com/fajrinnurhakim/sqrt-Quantity_Javascript/blob/main/images/1.JPG)
+2. Bilangan Genap
+   ![b](https://github.com/fajrinnurhakim/sqrt-Quantity_Javascript/blob/main/images/2.JPG)
+3. Bilangan Negatif
+   ![c](https://github.com/fajrinnurhakim/sqrt-Quantity_Javascript/blob/main/images/3.JPG)
